@@ -23,3 +23,5 @@ Put and image of your UML Diagram here. Upload the image of your UML Diagram to 
 ## Description
 
 Write a description of your project here. Include what your store you made, and why you chose this topic. In your description, include as many vocab words from our class to explain how you represented the item/service from your store. If you have user input, explain how the user will interact with your store such as which questions are prompted to the user, what response is your program expecting, and how that is use to output information for your store in the console.
+
+I made an Art store, or gallery, that sells paintings and sculptures. I chose this topic because I enjoy doing crafty things like painting and pottery, so I thought it would be a good reflection of me personally. I made 6 instance variables in total, 4 in the superclass and 2 in my subclasses. They represeted whether or not the store was open, what the name is, the price, and different materials used.
